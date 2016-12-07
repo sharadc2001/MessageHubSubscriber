@@ -1,0 +1,6 @@
+KafkaClient {
+    com.ibm.messagehub.login.MessageHubLoginModule required
+    serviceName="kafka"
+    username="s7eojJ9RMY62vAfp"
+    password="4naHBMgyqSKAMl8WeELLUmX6GgMjF2mb";
+};
